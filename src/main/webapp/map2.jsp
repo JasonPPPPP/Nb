@@ -113,5 +113,6 @@
     L.control.layers(baseLayers, overlayMaps).addTo(map);
     gpxTimeLayer.addTo(map);
 
+    var a = "不懂英文，多么痛的领悟";
 </script>
 </html>
